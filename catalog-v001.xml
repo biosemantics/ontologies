@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl" uri="http://purl.obolibrary.org/obo/iao.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1542666155417" name="http://biosemantics.arizona.edu/modifiers.owl" uri="Phenotype_Modifier_Ontology_Five_Bins.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1542666155417" name="http://biosemantics.arizona.edu/modifiers_open.owl" uri="Phenotype_Modifier_Ontology_Open_List.owl"/>
+    </group>
+</catalog>
